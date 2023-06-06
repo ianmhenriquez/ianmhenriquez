@@ -36,7 +36,7 @@ Hi there, I'm Ian, and this is my Github profile. Here you'll find some of my pe
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ianmhenriquez&show_icons=true&theme=gotham" alt="ianmhenriquez" />
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianmhenriquez&layout=compact&langs_count=16&theme=gotham"/>
 
 
 
