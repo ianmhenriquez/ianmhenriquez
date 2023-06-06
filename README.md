@@ -6,6 +6,7 @@ Hi there, I'm Ian, and this is my Github profile. Here you'll find some of my pe
 * Pandemic Simulator game using Unity 
 * Personal website using React
 * Custom API using Express
+* PSX Horror game using Unity
 
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
