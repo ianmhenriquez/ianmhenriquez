@@ -3,9 +3,6 @@
 Hi there, I'm Ian, and this is my Github profile. Here you'll find some of my personal projects, code snippets, and contributions to open-source projects. Feel free to browse my repositories, fork them, and submit pull requests if you find anything interesting!
 
 ### Current Projects 
-* Pandemic Simulator game using Unity 
-* Personal website using React
-* Custom API using Express
 * PSX Horror game using Unity
 
 ### Languages
