@@ -2,9 +2,6 @@
 
 Hi there, I'm Ian, and this is my Github profile. Here you'll find some of my personal projects, code snippets, and contributions to open-source projects. Feel free to browse my repositories, fork them, and submit pull requests if you find anything interesting!
 
-### Current Projects 
-* PSX Horror game using Unity
-
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
